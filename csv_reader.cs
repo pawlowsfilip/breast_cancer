@@ -11,10 +11,10 @@ using var streamReader = new StreamReader("/home/dev/datasets/breast_cancer/data
 using var csvReader = new CsvReader(streamReader, config);
 var items = csvReader.GetRecords<Probe>();
 
-foreach (var item in items)
-{
-    Console.WriteLine(item);
-}
+// foreach (var item in items)
+// {
+//     Console.WriteLine(item);
+// }
 
 record Probe
 {
