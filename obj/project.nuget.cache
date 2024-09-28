@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TYh+0wFzNVamnX1ukBj5dPb/Mt+OtIOEPZV8RXqcE/ISVJrdOIIHawfJW+1Hz1Sls1z/FaNWdJXDc7p0YsgYAQ==",
+  "success": true,
+  "projectFilePath": "/home/dev/projects/csharp/breast_cancer/breast_cancer.csproj",
+  "expectedPackageFiles": [
+    "/home/dev/.nuget/packages/csvhelper/33.0.1/csvhelper.33.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
