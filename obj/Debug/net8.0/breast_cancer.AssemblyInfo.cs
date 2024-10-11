@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("breast_cancer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+86c5e089373fd675d984ebe960b92b2da31e733b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a10fd87f47cc2cc585c1df37d23fe049eef1c099")]
 [assembly: System.Reflection.AssemblyProductAttribute("breast_cancer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("breast_cancer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
